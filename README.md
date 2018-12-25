@@ -4,6 +4,7 @@
 Project yang berfungsi sebagai template CRUD yang menggunakan teknologi React JS sebagai FrontEnd.
 
 Aplikasi ini bekerja dengan Simple REST PHP untuk proses Create, Read, Update, dan Delete.
+![Preview Simple CRUD React App](https://i.ibb.co/DfQBDBS/screencapture-localhost-3000-2018-12-25-23-30-53.png)
 
 ## Getting Started
 
@@ -59,6 +60,8 @@ Misal dimasukkan di folder C:\htdocs\simple-api
 Bisa modifikasi menjadi http://localhost/simple-api
 
 Oke, sampai sini aplikasi sudah bisa berjalan dengan semestinya
+
+
 
 ## Built With
 
